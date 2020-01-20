@@ -1,2 +1,2 @@
-# Dot-files-Tools
-All my Dot-files and Tools
+# Dot-files-Tools-Templates-Stuff
+All my Dot-files,Tools,Templates and Stuff
